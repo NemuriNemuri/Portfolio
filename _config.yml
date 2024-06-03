@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Lorefritz A. Sy Jr.
+email: ljsy2099@gmail.com
+url: https://github.com/NemuriNemuri
+description: "NemuriNemuri's Web Developer Portfolio! A dedicated and passionate web developer with 2 years of experience creating dynamic and responsive websites."
+keywords: "Web Developer, Developer, Software Developer, Lorefritz A. Sy Jr."
+skills: "Web Developer - Software Developer - Game Developer"
+meta_author: NemuriNemuri
 
 # Google webmaster tools
 google_verify:
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -25,38 +25,44 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: FFE2E2 #80B3FF
+  primary-rgb: "255,226,226" #"128,179,255"
+  secondary: BAD7DF #FD6E8A
+  secondary-dark: 99DDCC #A2122F
+  text-color: BA7A7A
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: NemuriNemuri
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: My Socials
+  credits: References
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/NemuriNemuri1
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/Nemmmuuuiii
+  - title: youtube
+    url: https://www.youtube.com/channel/UCTIz0SCtZP-fCv5DaiS9fsA
+  - title: linkedin
+    url: https://www.linkedin.com/in/lory-jyll-sy-573489288/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/NemuriNemuri
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Cebu City, Cebu 6000, Philippines
+  # - line: Philippines
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'I would like to extend my gratitude to my coworkers and higher-ups for their invaluable contributions to my journey.
+<ul class="list-inline">
+  <li>Glaze Exclamador | Cyzennt Co. | 09466077501</li>
+  <li>Karl Arboiz | Cyzennt Co. | 09300250061</li>
+  <li>Christian Lloyd Remo | Cyzennt Co. | 09179860290</li>
+</ul>'
 
 # Build settings
 markdown: kramdown

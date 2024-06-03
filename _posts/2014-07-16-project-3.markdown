@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2024-05-26
+title: Fashion Website
+img: aspect.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: April 2024
+client: Personal Team/Kawaii Studios
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+technology: ASP.NET 8
+description: A fashion web application can help the professionals belonging to the fashion industry in displaying or showcasing their craft. Fashionistas can pitch to a larger segment of the audience to maximize their sales.
 ---

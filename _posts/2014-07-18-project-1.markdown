@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2022-12-01
+title: Preschool Project
+img: cloudt.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: December 2022
+client: Cyzennt Co.
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+technology: Spring Boot
+description: A web application for registering preschools/schools with financial information and view the details of their schools. It also includes a way to import and export files and adding texts, processing of monthly financial information, etc. This project is developed using Spring Boot Application. As a member of the programming team under Cyzennt co., I worked on the frontend, backend, and the creation of documents relating to the project.
 ---
