@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2024-05-15
 title: Kawaii Studios Official Website
-img: kawaii.png
+img: cuties.png
 alt: image-alt
 project-date: April 2024
 client: Personal Team/Kawaii Studios

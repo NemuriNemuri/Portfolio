@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2024-03-06
 title: Fluffy Wuffy Typos
-img: submarine.png
+img: kawaii.png
 alt: image-alt
 project-date: March 2024
 client: Personal/Kawaii Studios

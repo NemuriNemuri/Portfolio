@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2024-03-06
 title: General Workflow Application
-img: cake.png
+img: cyzennt.png
 alt: image-alt
 project-date: March 2023
 client: Cyzennt Co.
