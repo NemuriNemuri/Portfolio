@@ -57,11 +57,13 @@ address:
   # - line: Philippines
 
 # Credits content
-credits: 'I would like to extend my gratitude to my coworkers and higher-ups for their invaluable contributions to my journey.
+credits: '
 <ul class="list-inline">
   <li>Glaze Exclamador | Cyzennt Co. | 09466077501</li>
   <li>Karl Arboiz | Cyzennt Co. | 09300250061</li>
   <li>Christian Lloyd Remo | Cyzennt Co. | 09179860290</li>
+  <li>Ara Salumbides | Kawaii Studios | 09225302664</li>
+  <li>Kim Sanchez | Kawaii Studios | 09653893472</li>
 </ul>'
 
 # Build settings
