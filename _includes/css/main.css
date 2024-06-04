@@ -436,6 +436,10 @@ footer .footer-below {
     font-size: 3em;
 }
 
+.portfolio-modal .modal-content p {
+    color: #{{ site.color.text-color }};
+}
+
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
 }
